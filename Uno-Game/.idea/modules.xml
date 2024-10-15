@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UnoGame.iml" filepath="$PROJECT_DIR$/UnoGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uno-Game.iml" filepath="$PROJECT_DIR$/Uno-Game.iml" />
     </modules>
   </component>
 </project>
